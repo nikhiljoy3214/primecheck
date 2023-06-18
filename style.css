@@ -1,0 +1,10 @@
+body{
+    background-color: #c5d5cb;
+}
+.d1{
+    width: 50%;
+    background-color: #9fa8a3;
+    display: grid;
+    justify-content: center;
+    
+}
